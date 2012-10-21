@@ -1,4 +1,4 @@
-uniquelyidentified.schema
+ezmcyrus.schema
 =========================
 
 This package contains LDAP schema for cyrus mailbox server and cyrus-aware
